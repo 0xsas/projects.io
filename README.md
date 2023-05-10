@@ -1,5 +1,4 @@
-# Projects.io
-Building out my DS Portfolio
+# Opeyemi Sasonel
 
 
 ## [Project 1: Income Analysis](https://github.com/0xsas/Portfolio.io/tree/main/Files/ecommerce)
