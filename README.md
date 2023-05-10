@@ -16,3 +16,6 @@ First hand Experience with;
  - Regression Analysis.
  - Classification and Clustering
  - Neural Network
+
+
+## [Project 2: Car Sales Data](Files/Car Price Prediction)
