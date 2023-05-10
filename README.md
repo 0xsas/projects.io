@@ -18,4 +18,4 @@ First hand Experience with;
  - Neural Network
 
 
-## [Project 2: Car Sales Data](Files/Car Price Prediction)
+## [Project 2: Car Sales Data](https://github.com/0xsas/Portfolio.io/tree/main/Files/Car%20Price%20Prediction)
