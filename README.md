@@ -1,4 +1,3 @@
-theme: Minimal
 # Projects.io
 Building out my DS Portfolio
 
